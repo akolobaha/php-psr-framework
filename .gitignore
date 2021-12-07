@@ -1,0 +1,6 @@
+/vendor/composer/autoload_namespaces.php
+
+vendor
+composer.lock
+.idea
+phpunit.xml
